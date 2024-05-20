@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap');
+body{
+
+    background-color: #f0f2f5;
+
+
+}
+
+
+.editperfil{
+    visibility: hidden;
+}
+
+
+
+
+.quadrado{
+    position: absolute;
+    background-color: #9266a3a4;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    top: 12%;
+    left: 5%;
+    width: 90%;
+    height: 83%;
+    border-radius: 20px;
+
+}
+
+
+
+.usuario{
+    position: absolute;
+    top: 25%;
+    left: 8%;
+    width: 25%;
+    height: 8%;
+    display: block;
+    border-radius: 50px; 
+    font-size: 1.2rem;
+    background: #FFFFFF;
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    z-index: 2;
+    padding: 0 10px;
+}
+
+.email{
+    position: absolute;
+    border-radius: 50px; 
+    top: 39%;
+    left: 8%;
+    display: block;
+    border-radius: 50px; 
+    font-size: 1.2rem;
+    background: #FFFFFF;
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    z-index: 2;
+    padding: 0 10px;
+    width: 25%;
+    height: 8%;
+}
+
+
+.biografia{
+    position: absolute;
+    top: 55%;
+    left: 8%;
+    display: block;
+    border-radius: 50px; 
+    font-size: 1.2rem;
+    background: #FFFFFF;
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    z-index: 2;
+    padding: 0 10px;
+    width: 25%;
+    height: 8%;
+
+
+}
+
+.telefone{
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    font-size: 125%;
+    width: 25%;
+    height: 8%;
+    display: block;
+    border-radius: 50px; 
+    font-size: 1.2rem;
+    background: #FFFFFF;
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    z-index: 2;
+    padding: 0 10px;
+
+}
+
+.nascimento{
+    position: absolute;
+    display: block;
+    font-size: 15px;
+    border: none;
+    border-radius: 50px; 
+    top: 40%;
+    left: 50%;
+    display: block;
+    border-radius: 50px; 
+    font-size: 1.2rem;
+    background: #FFFFFF;
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    z-index: 2;
+    padding: 0 10px;
+    width: 25%;
+    height: 8%;
+
+}
+
+
+
+
+.usertext{
+    position: absolute;
+    top: 20%;
+    left: 9%;
+    color: #3a1352;
+    
+}
+.emailtext{
+    position: absolute;
+    top: 35%;
+    left: 9%;
+    color: #3a1352;
+}
+.biografiatext{
+    position: absolute;
+    top: 50%;
+    left: 9%;
+    color: #3a1352;
+}
+.telefonetext{
+    position: absolute;
+    top: 20%;
+    left: 51%;
+    color: #3a1352;
+}
+.datetext{
+    position: absolute;
+    top: 36%;
+    left: 51%;
+    color: #3a1352;
+}
+
+
+.logotipo{
+
+    width: 100px;
+}
+
+

@@ -1,0 +1,142 @@
+body{
+    background-color: #f0f2f5;
+}
+
+
+.quadrado{
+
+    position: absolute;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    top: 20%;
+    left: 60%;
+    width: 35%;
+    height: 60%;
+    border-radius: 5%;
+
+}
+
+.nome{
+    position: absolute;
+    top: 26%;
+    left: 65%;
+    width: 25%;
+    display: block;
+    font-size: 1.2rem;
+    border-radius: 50px;
+    height: 7%;
+    background: #FFFFFF;
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    z-index: 2;
+    padding: 0 10px;
+}
+.email{
+    position: absolute;
+    top: 34%;
+    left: 65%;
+    width: 25%;
+    display: block;
+    font-size: 1.2rem;
+    border-radius: 50px;
+    height: 7%;
+    background: #FFFFFF;
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    z-index: 2;
+    padding: 0 10px;
+
+}
+.senha{
+    position: absolute;
+    top: 42%;
+    left: 65%;
+    width: 25%;
+    display: block;
+    font-size: 1.2rem;
+    border-radius: 50px;
+    height: 7%;
+    background: #FFFFFF;
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    z-index: 2;
+    padding: 0 10px;
+
+}
+.confirmar{
+    position: absolute;
+    top: 50%;
+    left: 65%;
+    width: 25%;
+    display: block;
+    font-size: 1.2rem;
+    border-radius: 50px;
+    height: 7%;
+    background: #FFFFFF;
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    z-index: 2;
+    padding: 0 10px;
+
+}
+
+.data{
+    position: absolute;
+    top: 58%;
+    left: 65%;
+    width: 25%;
+    display: block;
+    font-size: 1.2rem;
+    border-radius: 50px;
+    height: 7%;
+    background: #FFFFFF;
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    z-index: 2;
+    padding: 0 10px;
+
+}
+
+.botao{
+    position: absolute;
+    top: 69%;
+    left: 70%;
+    width: 16%;
+    height: 9%;
+    background: #009688;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    font-family: Hammersmith One;
+    font-size: 1.2rem;
+    text-align: center;
+    line-height: 20%;
+    border: none;
+    transition: 0.3s ease;
+    cursor: pointer;
+    display: block;
+    border-radius: 50px;
+}
+
+.botao:hover{
+    background-color: #00796B;
+
+}
+
+
+.logo{
+        position: absolute;
+        top: 17%;
+        left: 10%;
+        width: 30%;
+    }
+.tz{
+    position: absolute;
+    top: 7.5%;
+    left: 65.5%;
+    font-size: 89px;
+    font-family: "Hammersmith One", sans-serif;
+    color: #075290;
+    text-shadow: black 1px 1px 2px;
+
+}
+

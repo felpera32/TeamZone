@@ -1,0 +1,209 @@
+body{
+
+  background-color: #f0f2f5;
+
+
+}
+
+.quadrado {
+    position: absolute;
+    top: 12%;
+    left: 1%;
+    background-color: #9266a3a4;
+    width: 98%;
+    height: 87%;
+    border-radius: 15px;
+}
+
+
+
+.personatext {
+    font-size: 78px;
+    position: absolute;
+    top: 5.5%;
+    left: 33%;
+    font-family: "Hammersmith One", sans-serif;
+    color: #333333;
+
+}
+
+
+
+.notifica {
+    font-size: 42px;
+    position: absolute;
+    top: 14.5%;
+    left: 2%;
+    font-family: "Hammersmith One", sans-serif;
+    color: #333333;
+    text-shadow: black 1px 1px 2px;
+}
+
+.mensagemtext{
+    font-size: 31px;
+    position: absolute;
+    top: 23.5%;
+    left: 7%;
+    font-family: "Hammersmith One", sans-serif;
+    color: #333333;
+
+}
+.call{
+    font-size: 31px;
+    position: absolute;
+    top: 30.5%;
+    left: 7%;
+    font-family: "Hammersmith One", sans-serif;
+    color: #333333;
+}
+
+.visutext{
+    font-size: 31px;
+    position: absolute;
+    top: 37.5%;
+    left: 7%;
+    font-family: "Hammersmith One", sans-serif;
+    color: #333333;
+    
+}
+
+
+
+#chk {
+    display: none;
+  }
+  
+  .switch {
+    position: absolute;
+    background-color: #777;
+    width: 76px;
+    height: 37px;
+    border-radius: 40px;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    transition: all .5s ease-in-out;
+    cursor: pointer;
+    z-index: 2;
+    top: 30%;
+    left: 2%;
+}
+  
+  .slider {
+    position: absolute;
+    background-color: white;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    transition: all .5s ease-in-out;
+  }
+  
+  #chk:checked ~ .switch {
+    background-color: green;
+  }
+  
+  #chk:checked ~ .switch .slider{
+    transform: translateX(44px);;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+  #chk2 {
+    display: none;
+  }
+  
+  .switch2 {
+    position: absolute;
+    background-color: #777;
+    width: 76px;
+    height: 37px;
+    border-radius: 40px;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    transition: all .5s ease-in-out;
+    cursor: pointer;
+    z-index: 2;
+    top: 23%;
+    left: 2%;
+}
+  
+  .slider2 {
+    position: absolute;
+    background-color: white;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    transition: all .5s ease-in-out;
+  }
+  
+  #chk2:checked ~ .switch2 {
+    background-color: green;
+  }
+  
+  #chk2:checked ~ .switch2 .slider2 {
+    transform: translateX(44px);;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  #chk3 {
+    display: none;
+  }
+  
+  .switch3 {
+    position: absolute;
+    background-color: #777;
+    width: 76px;
+    height: 37px;
+    border-radius: 40px;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    transition: all .5s ease-in-out;
+    cursor: pointer;
+    z-index: 2;
+    top: 37%;
+    left: 2%;
+}
+  
+  .slider3 {
+    position: absolute;
+    background-color: white;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    transition: all .5s ease-in-out;
+  }
+  
+  #chk3:checked ~ .switch3 {
+    background-color: green;
+  }
+  
+  #chk3:checked ~ .switch3 .slider3 {
+    transform: translateX(44px);;
+  }
+
+

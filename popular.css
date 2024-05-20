@@ -1,0 +1,189 @@
+body{
+    background-color: #f0f2f5;
+}
+
+.jogos{
+    border: 1px solid #4c2c5f;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    border-radius: 50px;
+    background-color: #9266a3a4;
+    height: 80%;
+    width:  90%;
+    position: absolute;
+    top: 15%;
+    left: 5%;
+}
+.valorant{
+    border: 0.5px solid #4c2c5f;
+    border-radius: 50px;
+    background-color: #AAB9D0;
+    height: 57%;
+    width: 20%;
+    position: absolute;
+    top: 18%;
+    left: 4%;
+}
+.vava{
+    border: 0.5px solid #4c2c5f;
+    border-radius: 50px;
+    position: absolute;
+    top: 30%;
+    left: 7.75%;
+    height: 30%;
+    width: 12.5%;
+}
+.fortnite{
+    border: 0.5px solid #4c2c5f;
+    border-radius: 50px;
+    background-color: #AAB9D0;
+    height: 57%;
+    width: 20%;
+    position: absolute;
+    top: 18%;
+    left: 28%;
+}
+.nite{
+    border: 0.5px solid #4c2c5f;
+    border-radius: 50px;
+    position: absolute;
+    top: 30%;
+    left: 31.75%;
+    height: 30%;
+    width: 12.5%;
+}
+.roblox{
+    border: 0.5px solid #4c2c5f;
+    border-radius: 50px;
+    background-color: #AAB9D0;
+    height: 57%;
+    width: 20%;
+    position: absolute;
+    top: 18%;
+    left: 52%;
+}
+.robo{
+    border: 0.5px solid #4c2c5f;
+    border-radius: 50px;
+    position: absolute;
+    top: 30%;
+    left: 55.75%;
+    height: 30%;
+    width: 12.5%;
+}
+.minecraft{
+    border: 0.5px solid #16091d;
+    border-radius: 50px;
+    background-color: #AAB9D0;
+    height: 57%;
+    width: 20%;
+    position: absolute;
+    top: 18%;
+    left: 76%;
+}
+.mine{
+    border: 0.5px solid #4c2c5f;
+    border-radius: 50px;
+    position: absolute;
+    top: 30%;
+    left: 79.75%;
+    height: 30%;
+    width: 12.5%;
+}
+#p1{
+    font-family: "Hammersmith One", sans-serif;
+    color:#ffd700;
+    font-size: 100px;
+    position: absolute;
+    top: 10%;
+    left: 4%;
+}
+#p2{
+    font-family: "Hammersmith One", sans-serif;
+    color:#c0c0c0;
+    font-size: 100px;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+}
+#p3{
+    font-family: "Hammersmith One", sans-serif;
+    color:#cd7f32;
+    font-size: 100px;
+    position: absolute;
+    top: 10%;
+    left: 53%;
+}
+#p4{
+    
+    font-family: "Hammersmith One", sans-serif;
+    color:#5b5b58;
+    font-size: 100px;
+    position: absolute;
+    top: 10%;
+    left: 76%;
+}
+.mp{
+    text-shadow: black 1px 1px 2px;
+    font-family: "Hammersmith One", sans-serif;
+    color: #66457C;
+    position: absolute;
+    font-size: 89px;
+    top: -6%;
+    left: 37%;
+}
+.mj{
+    text-shadow: black 1px 1px 2px;
+    font-family: "Hammersmith One", sans-serif;
+    color: #66457C;
+    position: absolute;
+    font-size: 70px;
+    top: 79%;
+    left: 37.5%;
+}
+.eb{
+    text-shadow: black 1px 1px 1px;
+    font-family: "Hammersmith One", sans-serif;
+    color: #4E2861;
+    position: absolute;
+    font-size: 30px;
+    top: 89%;
+    left: 44%;
+}
+.VA{
+    text-shadow: black 1px 1px 2px;
+    font-family: "Hammersmith One", sans-serif;
+    color: #67417A;
+    position: absolute;
+    font-size: 30px;
+    top: 60%;
+    left: 8%;
+}
+
+
+.FO{
+    text-shadow: black 1px 1px 2px;
+    font-family: "Hammersmith One", sans-serif;
+    color: #67417A;
+    position: absolute;
+    font-size: 30px;
+    top: 60%;
+    left: 32.5%;
+}
+.RO{
+    text-shadow: black 1px 1px 2px;
+    font-family: "Hammersmith One", sans-serif;
+    color: #67417A;
+    position: absolute;
+    font-size: 30px;
+    top: 60%;
+    left: 57.5%;
+}
+.MI{
+    text-shadow: black 1px 1px 2px;
+    font-family: "Hammersmith One", sans-serif;
+    color: #67417A;
+    position: absolute;
+    font-size: 30px;
+    top: 60%;
+    left: 79.5%;
+}

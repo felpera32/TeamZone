@@ -1,0 +1,142 @@
+body{
+
+    background-color: #f0f2f5;
+
+
+}
+.quadrado{
+    position: absolute;
+    top: 15%;
+    left: 5%;
+    background-color: #9266a3a4;
+    width: 90%;
+    height: 80%;
+    border-radius: 15px;
+}
+
+
+.nov1{
+    position: absolute;
+    top: 19%;
+    left: 6%;
+    width: 88%;
+    height: 16%;
+    background-color: #67477b;
+    z-index: 2;
+    border-radius: 15px;
+    opacity: 50%;
+}
+
+
+.nov2{
+    position: absolute;
+    top: 37%;
+    left: 6%;
+    width: 88%;
+    height: 16%;
+    background-color: #67477b;
+    z-index: 2;
+    border-radius: 15px;
+    opacity: 50%;
+}
+
+.novtext{
+    visibility: hidden;
+}
+
+.nov3{
+    position: absolute;
+    top: 55%;
+    left: 6%;
+    width: 88%;
+    height: 16%;
+    background-color: #67477b;
+    z-index: 2;
+    border-radius: 15px;
+    opacity: 50%;
+}
+
+.nov4{
+    position: absolute;
+    top: 73%;
+    left: 6%;
+    width: 88%;
+    height: 16%;
+    background-color: #67477b;
+    z-index: 2;
+    border-radius: 15px;
+    opacity: 50%;
+}
+
+.doors{
+    position: absolute;
+    top: 20%;
+    left: 8%;
+    width: 10%;
+    z-index: 3;
+}
+
+.pal{
+    position: absolute;
+    top: 41%;
+    left: 7%;
+    z-index: 3;
+    width: 12%;
+}
+
+
+.xbox{
+    position: absolute;
+    top: 53%;
+    left: -4%;
+    z-index: 3;
+    width: 33%;
+}
+
+.stardewvalley{
+    position: absolute;
+    top: 70%;
+    left: 0%;
+    z-index: 3;
+    width: 25%;
+    border-radius: 5px;
+}
+
+.dptext{
+    position: absolute;
+    top: 25%;
+    left: 20%;
+
+    font-family: "Hammersmith One", sans-serif;
+    color: black;
+    
+}
+
+
+.paltext{
+    position: absolute;
+    top: 44%;
+    left: 20%;
+    font-family: "Hammersmith One", sans-serif;
+    color: black;
+    
+}
+
+.xboxtext{
+    position: absolute;
+    top: 62%;
+    left: 20%;
+
+    font-family: "Hammersmith One", sans-serif;
+    color: black;
+    
+}
+
+
+.stardewtext{
+    position: absolute;
+    top: 79%;
+    left: 20%;
+    font-family: "Hammersmith One", sans-serif;
+    color: black;
+}

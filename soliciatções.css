@@ -1,0 +1,322 @@
+body{
+
+    background-color: #f0f2f5;
+
+
+}
+
+
+
+
+
+#us{
+    font-size: 20px;
+    color: #DABFEB;
+    position: absolute;
+    top: 7.5%;
+    left: 25%;
+}
+.u{
+    width:  75px;
+    height: 75px;
+    position: absolute;
+    top: 4%;
+    left: 8%;
+}
+#us2{
+    font-size: 20px;
+    color: #DABFEB;
+    position: absolute;
+    top: 22.5%;
+    left: 25%; 
+}
+.u2{
+    width:  75px;
+    height: 75px;
+    position: absolute;
+    top: 19%;
+    left: 8%;
+}
+
+
+.lista{
+    background-color: #9266a3a4;
+    width: 25%;
+    height: 65%;
+    border-radius: 5%;
+    position: absolute;
+    top: 20%;
+    left: 3%;
+
+}
+
+
+.user1{
+    text-justify: auto;
+    text-align: center;
+    color: #DABFEB;
+    background-color: #67477b;
+    width: 84%;
+    height: 10%;
+    position: absolute;
+    transform: translateX(-50%) translateY(-50%);
+    top:  10%;
+    left: 50%;
+    border: 1px solid #4c2c5f;
+    border-radius: 50px;
+}
+.user2{
+    text-justify: auto;
+    text-align: center;
+    color: #DABFEB;
+    background-color: #67477b;
+    width: 84%;
+    height: 10%;
+    position: absolute;
+    transform: translateX(-50%) translateY(-50%);
+    top:  25%;
+    left: 50%;
+    border: 1px solid #4c2c5f;
+    border-radius: 50px;
+}
+
+
+
+.btaceitar{
+
+    visibility: hidden;
+}
+.aceitar-button{
+    position: absolute;
+    top: 24%;
+    left: 19%;
+    cursor: pointer;
+}
+
+.recusar-button{
+    position: absolute;
+    top: 24%;
+    left: 22%;
+    cursor: pointer;
+}
+
+
+
+.aceitar-button2{
+    position: absolute;
+    top: 33.5%;
+    left: 19%;
+    cursor: pointer;
+}
+
+.recusar-button2{
+    position: absolute;
+    top: 33.5%;
+    left: 22%;
+    cursor: pointer;
+}
+
+
+.btaceitar2{
+    visibility: hidden;
+}
+
+
+
+.solicitaçao{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    text-align: center;
+    position: absolute;
+    top: 13%;
+    left: 19%;
+    background-color: #320e53;
+    color: #DABFEB;
+    height: 30px;
+    width: 140px;
+    border: none;
+    border-radius: 50px;
+}
+.amigos{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    text-align: center;
+    position: absolute;
+    top: 13%;
+    left: 6%;
+    background-color: #320e53;
+    color: #DABFEB;
+    height: 30px;
+    width: 140px;
+    border: none;
+    border-radius: 50px;
+}
+
+
+.tzlogo{
+    position: absolute;
+    top: 13.5%;
+    left: 29%;
+    width: 100px;
+    height: auto;
+}
+
+.logotipo{
+
+    width: 100px;
+}
+
+
+
+
+
+
+
+.solicitacoeslista{
+    background-color: #9266a3a4;
+    width: 25%;
+    height: 65%;
+    border-radius: 5%;
+    position: absolute;
+    top: 20%;
+    left: 3%;
+
+
+}
+
+
+.usersolicitation{
+    text-justify: auto;
+    text-align: center;
+    color: #DABFEB;
+    background-color: #67477b;
+    width: 21.5%;
+    height: 7%;
+    position: absolute;
+    transform: translateX(-50%) translateY(-50%);
+    top: 26%;
+    left: 16%;
+    border: 1px solid #4c2c5f;
+    border-radius: 50px;
+
+}
+
+
+.user2solicitation{
+    text-justify: auto;
+    text-align: center;
+    color: #DABFEB;
+    background-color: #67477b;
+    width: 21.5%;
+    height: 7%;
+    position: absolute;
+    transform: translateX(-50%) translateY(-50%);
+    top: 36%;
+    left: 16%;
+    border: 1px solid #4c2c5f;
+    border-radius: 50px;
+
+}
+#nick{
+    font-size: 20px;
+    color: #DABFEB;
+    position: absolute;
+    top: 23.5%;
+    left: 10%;
+
+}
+
+.iconuser{
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    top: 20%;
+    left: 5%;
+
+}
+#nick2{
+    font-size: 20px;
+    color: #DABFEB;
+    position: absolute;
+    top: 34%;
+    left: 10%;
+
+}
+
+.iconuser2{
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    top: 30.5%;
+    left: 5%;
+
+
+}
+
+
+.adicionar1{
+    width: 3%;
+    height: 5.5%;
+    position: absolute;
+    top: 23.5%;
+    left: 22%;
+
+}
+.adicionar2{
+    width: 3%;
+    height: 5.5%;
+    position: absolute;
+    top: 33.5%;
+    left: 22%;
+
+}
+.rm1{
+    width: 3%;
+    height: 5.5%;
+    position: absolute;
+    top: 23.5%;
+    left: 18%;
+}
+.rm2{
+    width: 3%;
+    height: 5.5%;
+    position: absolute;
+    top: 33.5%;
+    left: 18%;
+
+}
+
+.aceitar-button{
+    position: absolute;
+    top: 24.5%;
+    left: 19%;
+    cursor: pointer;
+}
+.recusar-button{
+    position: absolute;
+    top: 24.5%;
+    left: 22%;
+    cursor: pointer;
+}
+
+
+.aceitar-button2 {
+    position: absolute;
+    top: 34.5%;
+    left: 19%;
+    cursor: pointer;
+}
+
+.recusar-button2 {
+    position: absolute;
+    top: 34.5%;
+    left: 22%;
+    cursor: pointer;
+}
+

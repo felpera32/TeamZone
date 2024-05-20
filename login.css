@@ -1,0 +1,128 @@
+body{
+
+    background-color: #f0f2f5;
+
+
+}
+
+
+
+
+
+.hm{
+    visibility: hidden;
+}
+
+
+
+
+.quadrado{
+
+    position: absolute;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    top: 26%;
+    left: 60%;
+    width: 35%;
+    height: 45%;
+    border-radius: 5%;
+
+    }
+
+
+
+.email{
+    position: absolute;
+    top: 40%;
+    left: 65%;
+    width: 25%;
+    display: block;
+    font-size: 1.2rem;
+    border-radius: 50px;
+    height: 7%;
+    background: #FFFFFF;
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    z-index: 2;
+    padding: 0 10px;
+    
+}
+
+.senha{
+    position: absolute;
+    top: 50%;
+    left: 65%;
+    width: 25%;
+    display: block;
+    font-size: 1.2rem;
+    border-radius: 50px;
+    height: 7%;
+    background: #FFFFFF;
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    z-index: 2;
+    padding: 0 10px;
+    
+}
+
+.entrar{
+    position: absolute;
+    top: 65%;
+    left: 72%;
+    width: 12%;
+    height: 8%;
+    background: #009688;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    font-family: Hammersmith One;
+    font-size: 1.2rem;
+    text-align: center;
+    line-height: 20%;
+    border: none;
+    transition: 0.3s ease;
+    cursor: pointer;
+    display: block;
+    border-radius: 50px;
+}
+
+.entrar:hover{
+
+        background-color: #00796B;
+}
+
+.teamzone{
+    position: absolute;
+    top: 12%;
+    left: 64%;
+    font-size: 106px;
+    font-family: "Hammersmith One", sans-serif;
+    color: #3a1352;
+    text-shadow: black 1px 1px 2px;
+}
+
+
+.logo{
+    position: absolute;
+    top: 17%;
+    left: 10%;
+    width: 30%;
+}
+.lb{
+    position: absolute;
+    top: 59%;
+    left: 67.5%;
+    color: #1d2129;
+    
+}
+.lembrar{
+    position: absolute;
+    top: 60%;
+    left: 65%;
+    height: 3%;
+    width: 2%;
+}
+
+
+
+
+
